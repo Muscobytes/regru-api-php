@@ -1,7 +1,7 @@
 {
-    "name": "akerbel/regru-api-php",
+    "name": "muscobytes/regru-api-php",
     "version": "v1.0.0",
-    "description": "Regru client for PHP",
+    "description": "Reg.ru client for PHP",
     "keywords": ["regru", "domain", "hosting"],
     "authors": [
         {
@@ -15,7 +15,6 @@
         }
     },
     "require": {
-        "guzzlehttp/guzzle": "^5.0 || ^6.0",
-        "monolog/monolog": "^1.21"
+        "guzzlehttp/guzzle": "7.*"
     }
 }
